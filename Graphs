@@ -1,0 +1,3 @@
+The Python code automates the linear stability analysis on the SIR model. 
+This code frequently switches between susceptible, infectious, and recovered variables 
+to accommodate the requirements of the different functions and processes used. 
