@@ -1,4 +1,4 @@
-# the rec0very rate is 0.066667 and the infecti0n rate is 0.0000000291.
+# the recovery rate is 0.066667 and the infection rate is 0.0000000291.
 
 import scipy.integrate
 import numpy
